@@ -1,0 +1,8 @@
+prefix=/home/kamba/catkin_ws/devel
+
+Name: sciurus17_control
+Description: Description of sciurus17_control
+Version: 0.0.0
+Cflags: -I/home/kamba/catkin_ws/src/sciurus17_ros/sciurus17_control/include
+Libs: -L${prefix}/lib 
+Requires: roscpp hardware_interface transmission_interface controller_manager dynamixel_sdk

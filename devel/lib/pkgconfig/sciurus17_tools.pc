@@ -1,0 +1,8 @@
+prefix=/home/kamba/catkin_ws/devel
+
+Name: sciurus17_tools
+Description: Description of sciurus17_tools
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp

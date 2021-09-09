@@ -1,0 +1,8 @@
+prefix=/home/kamba/catkin_ws/devel
+
+Name: sciurus17_moveit_config
+Description: Description of sciurus17_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
