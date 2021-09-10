@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+sudo cp `dirname $0`/../rules/91-sciurus17.rules /etc/udev/rules.d/
